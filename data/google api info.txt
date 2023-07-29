@@ -1,0 +1,8 @@
+
+oauth-client/
+cliente de escritorio: fj-lozadal-acct1
+client id: 573960277942-s9d0re3sqr06k1jl5gmg8qmg5jmc7ef3.apps.googleusercontent.com
+client secret: 	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
+
+google search
+api key: AIzaSyDgP-fyXWYXwhJZFLh1veEjbGkUG4rW69o
